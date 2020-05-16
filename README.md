@@ -41,8 +41,8 @@ Purpose of this project was self-training in web development (related to Data Sc
 	- covid_spain_app
 		- static							Images
 		- templates							Webpage definition
-	- routes.py								Routing definition and filling of web app with plotly graphs
+		- routes.py							Routing definition and filling of web app with plotly graphs
 
-URL to web app on Heroku:
-
+### URL to web app on Heroku:
+https://covid-spain-app.herokuapp.com/
 
